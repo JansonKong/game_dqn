@@ -124,4 +124,5 @@ class Game(object):
 game = Game()
 game.init_map(5)
 print(game.map)
-
+五子棋github：
+https://github.com/junxiaosong/AlphaZero_Gomoku
